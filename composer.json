@@ -1,0 +1,19 @@
+{
+    "name": "github1970/direct-file-uploader",
+    "description": "Send files from a directory to telegram",
+    "autoload": {
+      "psr-4": {
+        "DirectFileUploader\\": "src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "github-1970",
+            "email": "github1970@gmail.com"
+        }
+    ],
+    "require": {
+      "guzzlehttp/guzzle": "^7.0",
+      "symfony/console": "^5.3"
+    }
+}
