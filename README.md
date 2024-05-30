@@ -9,7 +9,7 @@ Direct Telegram Uploader is a PHP script for uploading files to a Telegram group
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/github-1970/direct-telegram-uploader
+   git clone https://github.com/1970Mr/direct-telegram-uploader
    ```
 
 3. Install the required dependencies using Composer. Make sure you have Composer installed globally. If not, you can download and install Composer from the official website: https://getcomposer.org/download/.
